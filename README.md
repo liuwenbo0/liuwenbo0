@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好哇!&center=true&size=27"> </a> </h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwenbo0&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你好哇!&center=true&size=27"> </a> </h1>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=liuwenbo0&theme=vue-dark" /> </div>
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuwenbo0&repo=hust-os)](https://github.com/anuraghazra/github-readme-stats) -->
 
