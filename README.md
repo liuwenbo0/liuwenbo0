@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### 🔍 Where to find me
 
 [![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white)](https://www.cnblogs.com/webliu6)
-[![github](https://img.shields.io/badge/KANIKIG-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuwenbo0/)
-[![profile](https://komarev.com/ghpvc/?username=KANIKIG&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/liuwenbo0)
+[![github](https://img.shields.io/badge/liuwenbo0-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuwenbo0/)
+[![profile](https://komarev.com/ghpvc/?username=liuwenbo0&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/liuwenbo0)
 
 ### 💻 I code with
 
@@ -28,4 +28,4 @@ C / C++
 
 ### 📊 Github Stats
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=liuwenbo0&theme=vue-dark" /> </div>
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=liuwenbo0&theme=vue-dark" /> </div>
