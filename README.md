@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there 👋, I'm webliu!&center=flase&size=25"> </a> </h1>
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuwenbo0&repo=hust-os)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+webliu!&size=30&color=9ACD32)](https://git.io/typing-svg)
 
 #### 🔍 Where to find me
 
