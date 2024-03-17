@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+webliu!&size=30&color=9ACD32)](https://git.io/typing-svg)
 
-#### 🔍 Where to find me
+#### 🤔 Know more about me？
 
 [![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white)](https://www.cnblogs.com/webliu6)
 [![github](https://img.shields.io/badge/liuwenbo0-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuwenbo0/)
@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwenbo0&count_private=true&show_icons=true&theme=tokyonight)
 
-#### 📈 Star History
+<!--#### 📈 Star History
 
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuwenbo0&repo=hust-os&theme=tokyonight)](https://github.com/KANIKIG/Multi-EasyGost)
 
 [![Star History Chart](	https://starchart.cc/liuwenbo0/hust-os.svg)](https://github.com/liuwenbo0/hust-os)
