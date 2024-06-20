@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+webliu!&size=30&color=9ACD32)](https://git.io/typing-svg)
 
-#### 💻 I code with
+## 💻 I code with
 
 ![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cplusplusbuilder&logoColor=ffdd50)
 ![C](https://img.shields.io/badge/C-darkorange?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuwenbo0&layout=compact&theme=tokyonight&hide=SystemVerilog,Tcl)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 🤔 Know more about me？
+## 🤔 Know more about me？
 
 [![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white)](https://www.cnblogs.com/webliu6)
 [![github](https://img.shields.io/badge/liuwenbo0-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuwenbo0/)
 [![profile](https://komarev.com/ghpvc/?username=liuwenbo0&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/liuwenbo0)
 
 
-#### 📊 Github Stats
+## 📊 Github Stats
 
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwenbo0&count_private=true&show_icons=true&theme=tokyonight)
 
