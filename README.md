@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-darkorange?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-black.svg?style=for-the-badge&logo=platformio&logoColor=white)
 ![Latex](https://img.shields.io/badge/Latex-green.svg?style=for-the-badge&logo=overleaf&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuwenbo0&layout=compact&theme=tokyonight&hide=SystemVerilog,Tcl)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuwenbo0&layout=compact&theme=tokyonight&hide=SystemVerilog,Tcl)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ## 🤔 Know more about me？
 
 [![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white)](https://www.cnblogs.com/webliu6)
@@ -31,10 +30,10 @@ Here are some ideas to get you started:
 
 
 ## 📊 Github Stats
-
+<!--
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwenbo0&count_private=true&show_icons=true&theme=tokyonight)
 
-<!--#### 📈 Star History
+## 📈 Star History
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuwenbo0&repo=hust-os&theme=tokyonight)](https://github.com/KANIKIG/Multi-EasyGost)
 
