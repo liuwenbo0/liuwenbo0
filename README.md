@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 [![github](https://img.shields.io/badge/liuwenbo0-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuwenbo0/)
 [![profile](https://komarev.com/ghpvc/?username=liuwenbo0&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/liuwenbo0)
 
-
-## 📊 Github Stats
 <!--
+## 📊 Github Stats
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwenbo0&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 📈 Star History
