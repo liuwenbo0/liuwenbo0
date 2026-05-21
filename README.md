@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Verilog](https://img.shields.io/badge/Verilog-black.svg?style=for-the-badge&logo=platformio&logoColor=white)
 ![Latex](https://img.shields.io/badge/Latex-green.svg?style=for-the-badge&logo=overleaf&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuwenbo0&layout=compact&theme=tokyonight&hide=SystemVerilog,Tcl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤔 Know more about me？
 
